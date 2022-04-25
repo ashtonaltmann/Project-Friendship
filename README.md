@@ -1,4 +1,4 @@
-# Project-Friendship
+# Project Friendship Mentor Community
 
 Project Friendship Community Builders
 Version 1.0
